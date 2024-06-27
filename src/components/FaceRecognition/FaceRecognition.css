@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.imageContainer{
+    position: relative;
+    margin-top: 30px;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+}
+.boundingBox{
+    position: absolute;
+    border: 3px cyan solid;
+    background: transparent;
+}
